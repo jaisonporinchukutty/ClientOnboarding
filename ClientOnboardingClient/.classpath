@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/joda-time-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/mariadb-java-client-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/mariadb-java-client-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/mariadb-java-client-2.2.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/pdfbox-app-1.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/pdfbox-app-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/poi-examples-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/poi-excelant-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/selenium-firefox-driver-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/selenium-java-2.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/selenium-java-2.46.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/selenium-server-2.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/selenium-server-2.46.0-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/selenium-server-standalone-2.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/testng-6.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lovelin.jaison/Desktop/Automation/RegOneSanity/Resources/JarFiles/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
